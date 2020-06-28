@@ -1,7 +1,7 @@
 <?php
 $DB_NAME='phonemonitor';
 $DB_USERNAME='dbmasteruser';
-$DB_PASSWORD='#*=zmMr0%[wn^*Z5vmZKRpA>f#<<;8?s';
+$DB_PASSWORD='qwerty123';
 $DB_HOST='ls-96aaf3d4a5f8160b20e2dcb3d4767a9b6ac3fbdb.carvuyzcyuke.ap-southeast-1.rds.amazonaws.com';
 
 function checkUserPassword($username,$password)
