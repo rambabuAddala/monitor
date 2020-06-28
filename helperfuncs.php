@@ -1,8 +1,8 @@
 <?php
-$DB_NAME='dbmasteruser';
+$DB_NAME='phonemonitor';
 $DB_USERNAME='dbmasteruser';
 $DB_PASSWORD='qwerty123';
-$DB_HOST='ls-96aaf3d4a5f8160b20e2dcb3d4767a9b6ac3fbdb.carvuyzcyuke.ap-southeast-1.rds.amazonaws.com:3306';
+$DB_HOST='ls-96aaf3d4a5f8160b20e2dcb3d4767a9b6ac3fbdb.carvuyzcyuke.ap-southeast-1.rds.amazonaws.com';
 
 function checkUserPassword($username,$password)
 {
